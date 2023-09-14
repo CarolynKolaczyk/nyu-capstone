@@ -1,4 +1,5 @@
-# capstone
+# Using Voter File Data to Study Electoral Reform
+This is a group capstone project completed for the MS Data Science program at NYU. 
 
 ### DEMOGRAPHIC file 
 
