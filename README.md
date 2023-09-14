@@ -12,3 +12,9 @@ Our voter-level data comes from the [L2 Political Academic Voter File](https://l
 
 We also use additional city-level [census data](https://simplemaps.com/data/us-cities). 
 
+## Data Processing
+
+## Visualizations
+
+## Modelling
+
