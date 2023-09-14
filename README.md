@@ -10,3 +10,5 @@ The goal of this project is to use voter file data consisting of nearly 190 mill
 ## Data
 Our voter-level data comes from the [L2 Political Academic Voter File](https://l2-data.com/datamapping/), which is a continuously updated database of registered voters in the US. It contains two types of files: Demographic and Vote History. The demographic file consists of 691 detailed socio-demographic variables for each voter. The vote history file contains information on which elections each voter has voted in since 1994.
 
+We also use additional city-level (census data)[https://simplemaps.com/data/us-cities]. 
+
