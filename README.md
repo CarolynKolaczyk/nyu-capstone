@@ -1,9 +1,9 @@
 # Using Voter File Data to Study Electoral Reform
 This is a group capstone project completed for the MS in Data Science program at NYU. Group members are:
 * Carolyn Kolaczyk
-* Doma Ghale @dg2491
-* Jin Ishizuka @jnshzk
-* Rodrigo Kreis de Paula @rodrigokreis
+* Doma Ghale [@dg2491](https://github.com/dg2491)
+* Jin Ishizuka [@jnshzk](https://github.com/jnshzk)
+* Rodrigo Kreis de Paula [@rodrigokreis](https://github.com/rodrigokreis)
 
 ### DEMOGRAPHIC file 
 
