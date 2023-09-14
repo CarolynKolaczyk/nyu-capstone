@@ -5,6 +5,8 @@ This is a group capstone project completed for the MS in Data Science program at
 * Jin Ishizuka [@jnshzk](https://github.com/jnshzk)
 * Rodrigo Kreis de Paula [@rodrigokreis](https://github.com/rodrigokreis)
 
+The goal of this project is to use voter file data consisting of nearly 190 million records to learn about how electoral reform affects participation in U.S. cities. This will involve wrangling and mining large datasets to uncover patterns in the demographic features associated with voter turnout across cities with and without ranked-choice-voting (RCV). We also develop predictive models to forecast the likely effects of RCV adoption on the turnout for different subgroups of voters.
+
 ### DEMOGRAPHIC file 
 
 Field	| Description
