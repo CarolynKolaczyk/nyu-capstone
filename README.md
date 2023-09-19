@@ -24,6 +24,8 @@ We sample cities from eight states which have implemented ranked-choice-voting:
 * Vermont
 
 In order to obtain a sample of demographically similar RCV and non-RCV cities, we implemented a cosine similarity function. For each RCV city, we select the five non-RCV cities in the same state with the most similar demographics, using our cosine similarity function on census data at the city level. We modified our selection threshold to ensure that we have at least 30 non-RCV cities per state, if possible. If a state has data on less than 30 cities in total, we include all cities in that state. If a state has less than 6 RCV cities, we select a larger sample of the most similar non-RCV cities to get closer to our target of 30 non-RCV cities per state. This results in 30 RCV cities and 183 non-RCV cities for our analysis, whose geographic distribution is exhibited below:
+
+![image](./map.png)
  
 
 ## Visualizations
