@@ -38,7 +38,14 @@ We create demographic voter profiles at the city and election levels using the p
 ## Visualizations
 We use the city voter profiles described above to create visualizations displaying the difference in turnout for RCV and non-RCV elections across demographics. We created visualizations for all states combined and separated, based on RCV versus non-RCV category, and further broken down by election type and different demographics and/or election date. The visualizations for some of our most salient observations are below.
 
-![image](./visualizations/plots/RF_feature_imp_RCV_vs_Non_RCV.jpg)
+![image](./visualizations/plots/elec_turnout_overall_all_states.jpg)
+
+![image](./visualizations/plots/avg_age_election_type_pooled_states.png)
+
+![image](./visualizations/plots/voter_income_rcv_non_rcv.png)
+
+![image](./visualizations/plots/voter_income_elec_type.png)
+
 
 ## Modelling
 
